@@ -3,10 +3,8 @@
 ### Downloads Necessários
 
 - Docker https://www.docker.com/
-
 - VS Code https://code.visualstudio.com/
-
-Github Desktop - https://desktop.github.com/
+- Github Desktop - https://desktop.github.com/
 
 ### Como baixar o projeto 
 
